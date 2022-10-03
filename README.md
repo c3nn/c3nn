@@ -1,7 +1,7 @@
 <p align="center">
-  Hello, Im *mostly* a web-dev who likes cats, osu!, and monochrome design.
-  I mostly use the name "Conmann" but it was taken, & [conman.dev](https://conman.dev) is simpler.
-
-  - c@conman.dev
-  - [conman.dev](https://conman.dev)
+	<i>Hello!</i> I'm <b>mostly</b> a web-dev who likes cats, osu!, and monochrome design.<br>
+	I mostly use the name <i>Conmann</i> but it was taken, & <a href="https://conman.dev">conman.dev</a> is simpler.
+	<br><br>
+	<a href="mailto:c@conman.dev">c@conman.dev</a><br>
+	<a href="https://conman.dev">conman.dev</a>
 </p>
