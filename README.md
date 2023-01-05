@@ -4,4 +4,5 @@
 	<br><br>
 	<a href="mailto:c@conman.dev">c@conman.dev</a><br>
 	<a href="https://conman.dev">conman.dev</a>
+	[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q8HKRP5)
 </p>
