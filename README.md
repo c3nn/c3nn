@@ -1,5 +1,5 @@
 <p align="center">
-	<i>Hello!</i> I'm <b>mostly</b> a web-dev who likes cats, osu!, and monochrome design.<br>
+	<i>Hello!</i> I'm <i><b>mostly</b></i> a web-dev who likes cats, games, & simulations.<br>
 	<i>Conmann, c3nn</i> @ <a href="https://c3nn.com">c3nn.com</a>
 </p>
 <p align="right">
